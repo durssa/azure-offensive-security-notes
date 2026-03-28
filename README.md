@@ -1,0 +1,1 @@
+# azure-offensive-security-notes
